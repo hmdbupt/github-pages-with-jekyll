@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hosting a static website on GitHub
 
-I'm glad you are here. I plan to talk about ...
+This is a static website that is hosted at GitHub.
